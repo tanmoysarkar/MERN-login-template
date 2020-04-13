@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb://tanmoy:%40Tanmoy123@ds231387.mlab.com:31387/website",
-    "jwtSecret": "sl_tanmoyjwtSecret"
+    "mongoURI": "ADD_YOUR_MONGOURI",
+    "jwtSecret": "ADD_YOUR_SECRET"
 }
